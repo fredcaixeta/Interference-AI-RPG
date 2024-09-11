@@ -27,9 +27,10 @@ A resposta gerada pelo modelo é recebida e exibida no jogo em tempo real.
 Veja abaixo algumas capturas de tela das interações em tempo real no jogo:
 
 ![Banqueiro saudando o visitante, reconhecendo suas características físicas e raça](https://github.com/user-attachments/assets/f4eff294-e4b2-4133-9208-455e40b98756)
+"Banqueiro saudando o visitante, reconhecendo suas características físicas e raça"
 
 ![Pirata vindo atacar o personagem, ameaçando-o](https://github.com/user-attachments/assets/ff59d4b6-5055-4829-a06c-7e1290d35686)
-
+"Pirata vindo atacar o personagem, ameaçando-o"
 
 ## Pré-requisitos
 
